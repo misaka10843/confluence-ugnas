@@ -12,7 +12,7 @@ Related issues:
 + [#46](https://github.com/haxqer/confluence/issues/46) (Thanks to: [pldavid2](https://github.com/pldavid2))
 
 ---
-[README](README.md) | [中文文档](README_zh.md)
+[README](README_en.md) | [中文文档](README.md)
 
 default port: 8090
 
