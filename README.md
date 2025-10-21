@@ -11,7 +11,7 @@
 
 ---
 
-[README](README.md) | [中文文档](README_zh.md)
+[README](README_en.md) | [中文文档](README.md)
 
 默认端口: 8090
 
